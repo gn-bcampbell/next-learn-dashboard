@@ -1,7 +1,7 @@
 # Next.js App Router Course
 
 ## Demo Application
-- [Preview the application here](next-learn-dashboard-roan.vercel.app)
+- [Preview the application here](https://next-learn-dashboard-roan.vercel.app/dashboard)
 - Login details
   - user@nextmail.com
   - 123456
